@@ -1,4 +1,12 @@
 # VSDSQuadronMini_RISCV_Research_Internship
+<details>
+  <summary><big><b>Click Me😊</b></big></summary>
+  <p>Hiii! I'm Galvin Benson<br>Email ID: galvin.benson@gmail.com<br>GitHub Profile: https://github.com/galvin-benson<br>LinkedIN Profile: www.linkedin.com/in/galvin-benson
+
+</p>
+</details>
+
+
 A practical internship focused on RISC-V development using the VSDSQuadron Mini, covering setup, instruction analysis, simulation, and real-world embedded system applications.
 
 ![image](https://github.com/user-attachments/assets/0f0091ae-8a07-4903-ac24-8c1342084913)
